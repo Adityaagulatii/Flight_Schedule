@@ -3,13 +3,14 @@
 
 To the Office of Transportation at The 22nd Century Sporting League,
 
-After our inaugural 2101 season, The League is looking for ways to optimize our game scheduling process and costs.  We know that transportation logistics are a major variable to consider during scheduling, and as such, we’ve got a few questions for you. 
+After the inaugural 2101 season, The League is looking for ways to optimize the game scheduling process and reduce costs. Transportation logistics are a major factor to consider during scheduling.
 
-Our primary areas of focus are surrounding the number of jets that The League needs to own, and the cost of fuel for those flights. If we want The League to enjoy continued success, we'll need to make sure we manage transportation costs.
+The primary focus areas include determining the number of jets The League needs to own and managing fuel costs for flights. To ensure The League's continued success, it is crucial to control transportation expenses effectively.
 
-We’re sharing schedule data for the upcoming 2102 season.  On each row, you’ll find information about which teams are needing to travel to their next set of games, the time the flight will likely depart (based on our estimations of gameplay durations) and the time the flight will likely land. 
+The schedule data for the upcoming 2102 season is being shared. Each row includes information about which teams will be traveling to their next set of games, the estimated departure time (based on game duration estimates), and the projected landing time.
 
-Additionally, we're also providing the fuel price that was paid each day during this past 2101 season. The fuel price fluctuates over time, but we're hoping you'll be able to project it to the future to help with the analysis.
+Additionally, fuel prices paid each day during the past 2101 season are provided. Fuel prices fluctuate over time, but projecting future costs will assist with the analysis.
+
 
 ## The Data
 
