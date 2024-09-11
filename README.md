@@ -1,3 +1,5 @@
+# Introduction
+
 ![Baseball Flights](baseball_flights.png)
 
 
@@ -35,3 +37,7 @@ Additionally, fuel prices paid each day during the past 2101 season are provided
 - Assuming that the flight's average speed is 500 MPH. (So, as an example, a 2-hour flight would travel 1000 miles)
 - Assuming that each team’s jet fills up with fuel equivalent to 1 gallon per mile-of-travel 
 - Assuming that the jet is fueled on the day the travel departs (and thus can use the fuel price corresponding to the departure date)
+
+# Conclusion
+
+The total cost that the League has to pay would be around $1859792.50
